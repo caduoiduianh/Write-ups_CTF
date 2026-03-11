@@ -8,6 +8,5 @@ A personal archive of CTF challenges I've solved.
 * [📁 Reverse Engineering](./Reverse_Engineering/)
 
 ---
-**Author:** caduoiduianh 
- An apprentice of team THEM?!
+**Author:** caduoiduianh ( An apprentice of team THEM?! )
 ---
