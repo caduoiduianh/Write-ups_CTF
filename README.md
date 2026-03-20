@@ -6,6 +6,7 @@ A personal archive of CTF challenges I've solved.
 
 * [📁 Web Exploitation](./Web_Exploitation/)
 * [📁 Reverse Engineering](./Reverse_Engineering/)
+* 📁 [Others Category](./Others_Category)
 
 ---
 **Author:** caduoiduianh ( An apprentice of team THEM?! )
