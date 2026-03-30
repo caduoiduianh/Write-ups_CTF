@@ -247,7 +247,7 @@ Admin Panel → Pages
 A new page appears:
 
 ```
-hup_flag_misc
+flag_misc
 ```
 
 Opening the page reveals the flag.
